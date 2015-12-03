@@ -2,5 +2,8 @@
 
 ### to run
 ```
+npm install
+```
+```
 gulp default
 ```
